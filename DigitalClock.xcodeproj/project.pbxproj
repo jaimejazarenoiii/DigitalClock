@@ -14,6 +14,7 @@
 		B30BA67A1FF4A00C0067CCD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B30BA6781FF4A00C0067CCD8 /* LaunchScreen.storyboard */; };
 		B30BA6851FF4A00C0067CCD8 /* DigitalClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30BA6841FF4A00C0067CCD8 /* DigitalClockTests.swift */; };
 		B30BA6901FF4A00C0067CCD8 /* DigitalClockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30BA68F1FF4A00C0067CCD8 /* DigitalClockUITests.swift */; };
+		B30BA69E1FF4B6AF0067CCD8 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B30BA69D1FF4A04C0067CCD8 /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B30BA68B1FF4A00C0067CCD8 /* DigitalClockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DigitalClockUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B30BA68F1FF4A00C0067CCD8 /* DigitalClockUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigitalClockUITests.swift; sourceTree = "<group>"; };
 		B30BA6911FF4A00C0067CCD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B30BA69D1FF4A04C0067CCD8 /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B30BA6761FF4A00C0067CCD8 /* Assets.xcassets */,
 				B30BA6781FF4A00C0067CCD8 /* LaunchScreen.storyboard */,
 				B30BA67B1FF4A00C0067CCD8 /* Info.plist */,
+				B30BA69D1FF4A04C0067CCD8 /* digital-7.ttf */,
 			);
 			path = DigitalClock;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B30BA69E1FF4B6AF0067CCD8 /* digital-7.ttf in Resources */,
 				B30BA67A1FF4A00C0067CCD8 /* LaunchScreen.storyboard in Resources */,
 				B30BA6771FF4A00C0067CCD8 /* Assets.xcassets in Resources */,
 				B30BA6751FF4A00C0067CCD8 /* Main.storyboard in Resources */,
